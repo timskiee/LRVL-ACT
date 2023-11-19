@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\Route\resources\views/profile.blade.php ENDPATH**/ ?>
